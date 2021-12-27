@@ -179,3 +179,4 @@ Received Import Request.
 Start importing Assets/Materials/GamePlaneMaterial.mat using Guid(743d14d40b0f79d48ad47ac0ea1057e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e28a183705c6b98c2c9e8463b486de') in 0.023962 seconds 
   Import took 0.026102 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
